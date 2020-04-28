@@ -1,0 +1,69 @@
+The semantically most similar words to Nergal according to fastText, IGI.DU, Ninurta, and Zababa, when we had replaced all the words in the dataset which in Oracc metadata have transliteration digi.du, whether the dictionary form given is Nergal or Palil, with the word IGI.DU
+
+Nergal  
+Ninurta                         0.770076
+Bel                             0.765459
+Zababa                          0.747544
+Ištar                           0.738673
+Išum                            0.73719
+IGI.DU                          0.723285
+Adad                            0.721881
+Laṣ                             0.712729
+Nusku                           0.70239
+Mullissu                                0.697472
+Zarpanitu                               0.688728
+Aššur                           0.686279
+Gula                            0.679483
+Sebettu                         0.679152
+Šamaš                           0.678665
+
+IGI.DU  
+Nergal                          0.723285
+Zababa                          0.68296
+Laṣ                             0.669143
+Belet-balaṭi                            0.665046
+Ninurta                         0.663188
+Tišpak                          0.649395
+Išum                            0.637654
+qarrādu                         0.629334
+tēbû                            0.627589
+Sebettu                         0.621997
+šamāru                          0.616281
+Aššur                           0.611869
+šêlu                            0.602202
+nādinu                          0.600356
+Girra                           0.597875
+
+Ninurta 
+Nusku                           0.814718
+Nergal                          0.770076
+Ningal                          0.760979
+Enlil                           0.756275
+Zababa                          0.748286
+Anunnaki                                0.717638
+Mullissu                                0.713471
+qarrādu                         0.710578
+Ištar                           0.698268
+Šala                            0.69617
+Anu                             0.688504
+Gula                            0.684087
+Antu                            0.677498
+Damkina                         0.67085
+Baba                            0.665934
+
+Zababa  
+Baba                            0.825941
+Ninurta                         0.748286
+Nergal                          0.747544
+Tišpak                          0.745289
+Nusku                           0.731939
+IGI.DU                          0.68296
+Haya                            0.672942
+Uraš                            0.671513
+Laṣ                             0.660082
+Ea                              0.658447
+Madanu                          0.6579
+Ninŋirsuk                               0.651974
+Išum                            0.642686
+Huzirina_P                              0.640137
+Antu                            0.640081
