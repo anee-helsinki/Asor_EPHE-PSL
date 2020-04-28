@@ -1,4 +1,6 @@
-The semantically most similar words to Nergal according to fastText to Nergal, IGI.DU, Ninurta, and Zababa, when we had replaced all the words in the dataset which in Oracc metadata have transliteration digi.du, whether the dictionary form given is Nergal or Palil, with the word IGI.DU
+The semantically most similar words to Nergal according to fastText to Nergal, IGI.DU, Ninurta, and Zababa, 
+when we had replaced all the words in the dataset which in Oracc metadata have transliteration {d}igi.du, 
+whether the dictionary form given is Nergal or Palil, with the word IGI.DU
 
 Nergal  
 Ninurta                         0.770076
