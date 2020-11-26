@@ -1,6 +1,6 @@
 ## Visualization of the results
 
-*CubeWithVectors.pdf* is an illustration of a three-dimensional vector space with three arrows, the tips of which represent the arrows (Figure 1).
+*CubeWithVectors.pdf* is an illustration of a three-dimensional vector space with three arrows, the tips of which represent the vectors (Figure 1).
 
 *Gods_gephi.pdf* is a graph produced with Gephi containing all the gods with at least 5 attestations in the dataset (and connections to the central group).
 
