@@ -1,5 +1,5 @@
 ## Visualization of the results
-#### Some of the illustrations are used in the article. The number after the explanation gives the number of the figure.
+#### Most of these illustrations are used in the article. The number after the explanation gives the number of the figure.
 
 *CubeWithVectors.pdf* is an illustration of a three-dimensional vector space with three arrows, the tips of which represent the vectors (Figure 1).
 
