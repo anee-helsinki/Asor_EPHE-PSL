@@ -1,6 +1,6 @@
-The semantically most similar words to Nergal according to fastText to Nergal, IGI.DU, Ninurta, and Zababa, 
-when we had replaced all the words in the dataset which in Oracc metadata have transliteration {d}igi.du, 
-whether the dictionary form given is Nergal or Palil, with the word IGI.DU
+List of 15 most similar words (according to fastText) to Nergal, IGI.DU, Ninurta, and Zababa,
+after we had replaced all the words transliterated as {d}igi.du with the dictionary form IGI.DU,
+irrespective of whether the dictionary form given in the Oracc metadata is Nergal or Palil.
 
 Nergal  
 Ninurta                         0.770076
@@ -12,8 +12,8 @@ IGI.DU                          0.723285
 Adad                            0.721881
 Laṣ                             0.712729
 Nusku                           0.70239
-Mullissu                                0.697472
-Zarpanitu                               0.688728
+Mullissu                        0.697472
+Zarpanitu                       0.688728
 Aššur                           0.686279
 Gula                            0.679483
 Sebettu                         0.679152
@@ -23,7 +23,7 @@ IGI.DU
 Nergal                          0.723285
 Zababa                          0.68296
 Laṣ                             0.669143
-Belet-balaṭi                            0.665046
+Belet-balaṭi                    0.665046
 Ninurta                         0.663188
 Tišpak                          0.649395
 Išum                            0.637654
@@ -42,8 +42,8 @@ Nergal                          0.770076
 Ningal                          0.760979
 Enlil                           0.756275
 Zababa                          0.748286
-Anunnaki                                0.717638
-Mullissu                                0.713471
+Anunnaki                        0.717638
+Mullissu                        0.713471
 qarrādu                         0.710578
 Ištar                           0.698268
 Šala                            0.69617
@@ -65,7 +65,7 @@ Uraš                            0.671513
 Laṣ                             0.660082
 Ea                              0.658447
 Madanu                          0.6579
-Ninŋirsuk                               0.651974
+Ninŋirsuk                       0.651974
 Išum                            0.642686
-Huzirina_P                              0.640137
+Huzirina_P                      0.640137
 Antu                            0.640081
