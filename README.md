@@ -7,7 +7,7 @@ Data for the article Jauhiainen, Heidi & Tero Alstola, Fast(Text) Analysis of th
 
 <b>Visualization:</b> Visualizations of the networks
 
-<b>Lists:</b> The fastText results and frequency lists of the words analyzed
+<b>Lists:</b> Frequency list of the words analyzed and lists of similar words produced with fastText
 
 <b>WordVectors:</b> The word vectors produced with fastText
 
