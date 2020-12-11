@@ -4,7 +4,7 @@ The preprocessing of the data has been explained in Tero Alstola, Shana Zaia, Al
 
 The Oracc data we use can be found in the Zenodo repository of the above-mentioned article (Texts/Oracc_data) http://doi.org/10.5281/zenodo.2620131.
 
-*textToAnalyse.txt* is the dataset used as input to fastText with each document listed in texts_used on its own line. The lemmas (dictionary forms) as indicated in the Oracc metadata of verbs, nouns, and adjectives are used. Rest of the words are replaced with a underline character '_'.
+*textToAnalyse.txt* is the dataset used as input to fastText with each document on its own line. The documents used are listed in *texts_used*. The lemmas (dictionary forms) as indicated in the Oracc metadata of verbs, nouns, and adjectives are used. Rest of the words are replaced with a underline character '_'.
 
 *igidu_textToAnalyse.txt* is the same dataset as textToAnalyse.txt but with all the words where the transliteration is (in our Oracc data) (d)igi.du replaced with IGI.DU instead of using the lemma indicated in the metadata.
 
