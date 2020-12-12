@@ -11,6 +11,6 @@
 
 *NergalIgiduScatterPlot.pdf* is a scatterPlot created with R Studio using Word Vectors R package that can read word vectors build with word2vec. The vectors were produced with fastText and the file analysis_igidu.vec (see the folder WordVectors) was converted to word2vec-compatible binary file with convertvec (https://github.com/marekrei/convertvec) before loading the vectors to R Studio. (Figure 5)
 
-*QueryResultsFastText.pdf* is an example of 15 most similar words when querying fastText for the word for Nergal. (Figure 2)
+*QueryResultsFastText.pdf* is an example of 15 most similar word vectors when querying fastText for the word vector for Nergal. (Figure 2)
 
-*VectorCalculus.pdf* is an illustration of finding analogies with fastText using Akkadian words as examples. (Figure 3)
+*VectorCalculus.pdf* is an illustrated example of finding analogies with fastText using Akkadian words. (Figure 3)
