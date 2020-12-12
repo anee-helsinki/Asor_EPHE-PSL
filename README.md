@@ -5,7 +5,7 @@ Data for the article Jauhiainen, Heidi & Tero Alstola, Fast(Text) Analysis of th
 
 <b>Texts:</b> The dataset used for analysis
 
-<b>Visualization:</b> Visualizations of the networks
+<b>Visualization:</b> Visualizations of the networks and a Gephi project containing all the network data
 
 <b>Lists:</b> Frequency list of the words analyzed and lists of similar words produced with fastText
 
