@@ -9,7 +9,7 @@ Data for the article Jauhiainen, Heidi & Tero Alstola, Fast(Text) Analysis of th
 
 <b>Lists:</b> Frequency list of the words analyzed and lists of similar words produced with fastText
 
-<b>WordVectors:</b> The word vectors produced with fastText
+<b>WordVectors:</b> Word vectors produced with fastText
 
 
 *ParisPoster.pdf* is the poster presented at the [ASOR/EPHE-PSL European Symposium](http://ancient-worlds-symposium.eu) in Sorbonne, Paris on September 4, 2018. 
