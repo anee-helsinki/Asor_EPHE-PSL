@@ -9,7 +9,7 @@
 
 *NergalEgonetwork.pdf* is Nergal's ego network, i.e. a graph with only Nergal and the gods connected to him. (Figure 4)
 
-*NergalIgiduScatterPlot.pdf* is a scatterPlot created with R Studio using Word Vectors R package (https://github.com/bmschmidt/wordVectors) that can read word vectors build with word2vec. The vectors were produced with fastText and the file analysis_igidu.vec (see the folder WordVectors) was converted to word2vec-compatible binary file with convertvec (https://github.com/marekrei/convertvec) before loading the vectors to R Studio. (Figure 5)
+*NergalIgiduScatterPlot.pdf* is a scatterPlot created with R Studio using the Word Vectors R package (https://github.com/bmschmidt/wordVectors) that can read word vectors build with word2vec. The vectors were produced with fastText and the file analysis_igidu.vec (see the folder WordVectors) was converted to word2vec-compatible binary file with convertvec (https://github.com/marekrei/convertvec) before loading the vectors to R Studio. (Figure 5)
 
 *QueryResultsFastText.pdf* is an example of 15 most similar word vectors when querying fastText for the word vector for Nergal. (Figure 2)
 
