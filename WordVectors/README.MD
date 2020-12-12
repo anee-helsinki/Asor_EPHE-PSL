@@ -10,4 +10,4 @@ The following word vectors were created from the file /Texts/igidu_textToAnalyse
 
 *analysis_igidu.vec* contains the vectors in text format.
 
-*vectorsConverted.bin* was created from the analysis_igidu.vec file using convertvec (https://github.com/marekrei/convertvec), because the binary file produced by fastText is not compatible with the WordVectors R package used to produce scatter plots (see the folder Visualization).
+*vectorsConverted.bin* was created from the analysis_igidu.vec file using convertvec (https://github.com/marekrei/convertvec), because the binary file produced by fastText is not compatible with the WordVectors R package (https://github.com/bmschmidt/wordVectors) used to produce scatter plots (see the folder Visualization).
