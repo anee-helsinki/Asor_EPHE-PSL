@@ -1,6 +1,8 @@
 ## Fast(Text) Analysis of Mesopotamian Divine Names
 
-Data for the article Jauhiainen, Heidi & Tero Alstola, Fast(Text) Analysis of the Mesopotamian Divine Names. Accepted to *CyberResearch on the Ancient Near East and Neighboring Regions. Evaluating New Tools and Methods for Archaeological Data, Objects, Texts, and Digital Archiving.* (vol. 2). Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico (eds.), in collaboration with Terhi Nurmikko Fuller and Randall W. Younker. Forthcoming 2021.
+This is the data used for and generated during our research for the article "Fast(Text) Analysis of Mesopotamian Divine Names"  published in Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich (eds.), The Ancient World Goes Digital: Case Studies on Archaeology, Texts, Online Publishing, Digital Archiving, and Preservation. Digital Biblical Studies, 6. Brill, 2023.
+
+We thank the Open Richly Annotated Cuneiform Corpus (Oracc) for their efforts in making linguistically annotated cuneiform texts available online. We are indebted to everyone involved in creating this research data, including the authors of the original publications and researchers who made the data Oracc-compatible and enriched it through lemmatizations and by adding other metadata. For a list of projects and their contributors, see the file OraccCredits.txt.
 
 
 <b>Texts:</b> The dataset used for analysis
@@ -14,6 +16,8 @@ Data for the article Jauhiainen, Heidi & Tero Alstola, Fast(Text) Analysis of th
 
 *ParisPoster.pdf* is the poster presented at the [ASOR/EPHE-PSL European Symposium](http://ancient-worlds-symposium.eu) in Sorbonne, Paris on September 4, 2018. 
 
+
+The dataset is also available in Zenodo: https://doi.org/10.5281/zenodo.4327394
 
 
 <p align="center">
